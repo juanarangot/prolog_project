@@ -12,7 +12,12 @@ El sistema permite almacenar, consultar y generar reportes del inventario de veh
 ## Video sustentación del programa
 [Video](https://youtu.be/7mynGmjzFAA?si=XDWrZ2RIobzhHPEk)
 
-## Capturas sustentación del programa
+## Capturas de pantalla con el funcionamiento del programa
+![image](https://github.com/user-attachments/assets/6066da02-6d8e-4fcc-89bf-bda0171612e5)
+
+![image](https://github.com/user-attachments/assets/6969ef85-d071-4cd1-b19d-21b82d7300a0)
+
+
 
 
 ## Contenido del repositorio
