@@ -120,6 +120,3 @@ count_vehicles(Total) :-
 % Caso 3: Total de sedanes <= $500k
 % ?- generate_report(_, sedan, 1000000, 500000, Result).
 % Result = [vehicles:[...], total:168000]
-
-
-%
